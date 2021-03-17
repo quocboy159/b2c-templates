@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'quoc-static-site'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6caebfc5a44e48878e6a6f764ac68f6d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0c8c404777ae4fe29e113a23f4f0b96d }}
         package: .
